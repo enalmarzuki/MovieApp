@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ButtonBackWithIcon should render correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "testUri": "../../../src/Assets/icons/ic-arrow-left.png",
+      }
+    }
+    testID="data-icon"
+  />
+  <Text
+    style={
+      {
+        "color": "#BBBBBB",
+        "fontFamily": "Lato-Regular",
+        "fontSize": 14,
+      }
+    }
+    testID="data-text"
+  >
+    mock text
+  </Text>
+</View>
+`;

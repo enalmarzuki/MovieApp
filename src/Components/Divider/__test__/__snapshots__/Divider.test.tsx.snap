@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Divider should render correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "rgba(0, 0, 0, 0.12)",
+        "height": 0.5,
+      },
+      undefined,
+      {
+        "borderColor": "#515151",
+        "borderWidth": 0.2,
+      },
+    ]
+  }
+/>
+`;
