@@ -25,8 +25,6 @@ const Home = () => {
   const storeHome: IReducersHome = useAppSelector(state => state.home);
   const dispatch = useAppDispatch();
 
-  console.log('useHomeHooks.refreshing', useHomeHooks.refreshing);
-
   const fetchMoreData = () => {
     const moviePage = useHomeHooks.page + 1;
     useHomeHooks.setPage(moviePage);

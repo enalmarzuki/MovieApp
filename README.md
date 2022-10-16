@@ -11,6 +11,7 @@
 - [Requirements](#requirements)
 - [Usage](#usage-for-development)
 - [Screenshot](#screenshot)
+- [Release APK](#release-apk)
 - [Contact](#contact)
 
 ## Introduction
@@ -39,6 +40,22 @@
 4. Type `npx react-native run-adroid` for run this app. **_Make sure your device is connected with debugging mode_**.
 
 ## Screenshot Here
+
+<div align="center">
+    <img width="180" src="./screenshots/splashscreen.jpeg">   
+    <img width="180" src="./screenshots/home.jpeg">
+      <img width="180" src="./screenshots/movie-detail.jpeg">   
+</div>
+<div align="center">
+    <img width="180" src="./screenshots/cast-detail.jpeg">
+    <img width="180" src="./screenshots/cast-movies.jpeg">
+</div>
+
+## Release APK
+
+<a href="https://bit.ly/3T95YxO" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
+</a>
 
 ## Contact
 

@@ -40,10 +40,6 @@ const DetailPerson: React.FC<IDetailPersonProps> = ({route}) => {
     {key: TAB_KEY.Movies, title: 'Movies'},
   ]);
 
-  console.log('data', data);
-  console.log('movies', movies);
-  console.log('error', error);
-
   const renderScene = ({route: tab}: any) => {
     switch (tab.key) {
       case TAB_KEY.About:
